@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99b32855-6990-415b-a196-9d0d266ca1a1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/composing/inline-method_before.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/composing/inline-method_before.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simplifying_conditional_expressions/consolidate-conditional-expression_before.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simplifying_conditional_expressions/consolidate-conditional-expression_before.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,11 +35,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/composing/inline-method_before.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            <state relative-caret-position="45">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/composing/split-temporary-variable_before.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/simplifying_conditional_expressions/consolidate-conditional-expression_before.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -55,6 +73,8 @@
         <option value="$PROJECT_DIR$/src/composing/extract-method_before.java" />
         <option value="$PROJECT_DIR$/src/composing/extract-variable_before.java" />
         <option value="$PROJECT_DIR$/src/composing/inline-method_before.java" />
+        <option value="$PROJECT_DIR$/src/composing/split-temporary-variable_before.java" />
+        <option value="$PROJECT_DIR$/src/simplifying_conditional_expressions/consolidate-conditional-expression_before.java" />
       </list>
     </option>
   </component>
@@ -94,6 +114,16 @@
               <item name="composing" type="462c0819:PsiDirectoryNode" />
               <item name="inline-method_before.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
+            <path>
+              <item name="refactoring-ian-ariassch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="organizing_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="refactoring-ian-ariassch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="simplifying_conditional_expressions" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -131,12 +161,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559572764664</updated>
-      <workItem from="1559572767980" duration="789000" />
+      <workItem from="1559572767980" duration="1157000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="789000" />
+    <option name="totallyTimeSpent" value="1157000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="451" y="95" width="1400" height="1000" extended-state="0" />
@@ -193,8 +223,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/composing/inline-method_before.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        <state relative-caret-position="45">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/composing/split-temporary-variable_before.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simplifying_conditional_expressions/consolidate-conditional-expression_before.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
